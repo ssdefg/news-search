@@ -14,7 +14,7 @@ An automated end-to-end news analytics web application built with Streamlit, Goo
 
 ---
 
-## 🛠️ Tech Stack & Architecture
+## Tech Stack & Architecture
 
 | Layer | Technology | Role |
 | :--- | :--- | :--- |
@@ -25,7 +25,7 @@ An automated end-to-end news analytics web application built with Streamlit, Goo
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 .
